@@ -1,0 +1,77 @@
+.titulo {
+  font-size: 5rem;
+  color: white;
+  text-align: center;
+  margin-top: 4rem;
+  background-color: #2d3436;
+  padding: 4rem;
+}
+
+section h3 {
+  font-size: 1.5rem ;
+  padding: 10px;
+}
+
+h2 {
+  padding-bottom: 15px;
+}
+
+
+
+.is {
+  font-size: 2rem;
+  position: relative;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 5px 5px 10px #000000 ;
+  color: black;
+  padding: 10px;
+}
+
+section {
+
+
+}
+
+.display {
+  background-color: #b2bec3;
+
+}
+.wrap {
+  display: flex;
+  flex-flow: row wrap;
+  flex: 20 1 200px;
+  justify-content: space-around;
+}
+
+
+.card {
+  width: 350px;
+  max-height: 350px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  margin: 3rem 3rem 3rem 3rem;
+  font-size: 1rem;
+  text-align: center;
+  background-color: #dfe6e9;
+  color: black;
+  border-radius: 12px;
+  box-shadow: 5px 5px 5px #000000;
+}
+
+
+.prueba {
+  font-size: 2rem;
+  margin: 5rem;
+  color: black;
+  text-align: center;
+}
+
+.section--parte2 {
+  text-align: center;
+  margin-bottom: 5rem;
+}
+
+.secton2 {
+  padding-top: 5rem;
+}
